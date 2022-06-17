@@ -1,0 +1,33 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.coming{
+    height: 100px;
+    max-width: 600px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    background: yellow;
+    text-align: center;
+    justify-content: center;
+    border: 20px black;
+}
+.coming h1{
+    text-align: center;
+    font-size: 70px;
+    text-transform: uppercase;
+}
+.aviso{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+.aviso .jpg img{
+    width: 800px;
+}
